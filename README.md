@@ -33,7 +33,7 @@ This application implements a simple command line based storefront using the npm
       * If the purchase goes through, it updates the stock quantity to reflect the purchase.
       * It will also update the product sales in the department table. 
       ## Video:
-     ( https://drive.google.com/file/d/1Mud6aclDpUg2OKtsW8rEoDi2nF7_X29F/view)
+     (https://drive.google.com/file/d/1Mud6aclDpUg2OKtsW8rEoDi2nF7_X29F/view)
 
 2. `BamazonManager.js`
 
@@ -53,7 +53,9 @@ This application implements a simple command line based storefront using the npm
     * If the manager selects `Add New Product`, it allows the manager to add a new product to the store.
 
     * If the manager selects `End Session`, it ends the session and doesn't go back to the menu.
-
+  
+  ## Video:
+  (https://drive.google.com/file/d/1clP_Rt9V2_D2LSaKOkCtHkzo2Dtbfs7w/view)
 -----------------------
 ## mysQl
 ![Screenshot (48)](https://user-images.githubusercontent.com/50224446/60471435-457ead00-9c2a-11e9-839f-fc3bb27222a0.png)
