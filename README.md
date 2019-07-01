@@ -53,6 +53,8 @@ This application implements a simple command line based storefront using the npm
     * If the manager selects `End Session`, it ends the session and doesn't go back to the menu.
 
 -----------------------
+## mysQl
+![Screenshot (48)](https://user-images.githubusercontent.com/50224446/60471435-457ead00-9c2a-11e9-839f-fc3bb27222a0.png)
 
 ## Technologies used
 - Node.js
