@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> 3c856aaeb71b9acc2395d5e2cd3ffeb7fbaa4b13
 # Bamazon
     In this activity or assignment, i created  a Amazon-like storefront using  the MySQL. The app will take in orders 
     from customers and deplete stock from the store's inventory.
@@ -71,12 +68,6 @@ This application implements a simple command line based storefront using the npm
 
 ## Built With
 
-<<<<<<< HEAD
-* MySQLWorkbench
-* Terminal/Gitbash
-=======
-* Sublime Text - Text Editor
 * MySQLWorkbench
 * Terminal/Gitbash
 
->>>>>>> 3c856aaeb71b9acc2395d5e2cd3ffeb7fbaa4b13
