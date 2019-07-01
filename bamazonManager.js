@@ -86,7 +86,7 @@ function readDataTable(db_table) {
 		res.forEach((product) => {
 			table.addRow(product.id, product.description, product.department, product.price, product.quantity, product.product_sales);
 		})
-		console.log(`${table.toString()}\n`);
+		console.log(chalk.green(`${table.toString()}\n`));
 	});
 }
 
