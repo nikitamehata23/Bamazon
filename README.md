@@ -35,7 +35,7 @@ This application implements a simple command line based storefront using the npm
       ## Video for node bamazonCustomer.js:
      *(https://drive.google.com/file/d/1Mud6aclDpUg2OKtsW8rEoDi2nF7_X29F/view)
 
-2. `BamazonManager.js`
+2. `bamazonManager.js`
 
     * Starts with a menu:
         * View Products for Sale
