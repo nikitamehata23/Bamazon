@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 087849fe391eea909a0f814ffd420eb3594b9221
 # Bamazon
     In this activity or assignment, i created  a Amazon-like storefront using  the MySQL. The app will take in orders 
     from customers and deplete stock from the store's inventory.
@@ -31,6 +35,8 @@ This application implements a simple command line based storefront using the npm
       * However, if there is not enough of the product in stock, it will tell the user that there isn't enough of the product.
       * If the purchase goes through, it updates the stock quantity to reflect the purchase.
       * It will also update the product sales in the department table. 
+      ## Video for node bamazonCustomer.js:
+     *(https://drive.google.com/file/d/1Mud6aclDpUg2OKtsW8rEoDi2nF7_X29F/view)
 
 2. `BamazonManager.js`
 
@@ -50,13 +56,22 @@ This application implements a simple command line based storefront using the npm
     * If the manager selects `Add New Product`, it allows the manager to add a new product to the store.
 
     * If the manager selects `End Session`, it ends the session and doesn't go back to the menu.
+  # Video for node bamazonManager.js:
+  *(https://drive.google.com/file/d/1clP_Rt9V2_D2LSaKOkCtHkzo2Dtbfs7w/view)
+--------------------------------------------------------------------------------------------------------------------------------
+## mysQl
+![Screenshot (53)](https://user-images.githubusercontent.com/50224446/60472301-005c7a00-9c2e-11e9-9d84-34b7d34ad385.png)
 
------------------------
+![Screenshot (48)](https://user-images.githubusercontent.com/50224446/60471435-457ead00-9c2a-11e9-839f-fc3bb27222a0.png)
 
 ## Technologies used
 - Node.js
 - Inquire NPM Package (https://www.npmjs.com/package/inquirer)
 - MYSQL NPM Package (https://www.npmjs.com/package/mysql)
+- Chalk NPM Package (https://www.npmjs.com/package/chalk)
+- is-letter (https://www.npmjs.com/package/is-letter)
+- colors (https://www.npmjs.com/package/colors)
+- ascii-table (https://www.npmjs.com/package/ascii-table)
 
 ### Prerequisites
 
@@ -67,7 +82,12 @@ This application implements a simple command line based storefront using the npm
 
 ## Built With
 
+<<<<<<< HEAD
 * Sublime Text - Text Editor
 * MySQLWorkbench
 * Terminal/Gitbash
 
+=======
+* MySQLWorkbench
+* Terminal/Gitbash
+>>>>>>> 087849fe391eea909a0f814ffd420eb3594b9221
