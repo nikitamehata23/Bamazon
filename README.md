@@ -65,6 +65,11 @@ This application implements a simple command line based storefront using the npm
 - Node.js
 - Inquire NPM Package (https://www.npmjs.com/package/inquirer)
 - MYSQL NPM Package (https://www.npmjs.com/package/mysql)
+- Chalk NPM Package
+- is-letter
+- figlet
+- colors
+- ascii-table
 
 ### Prerequisites
 
