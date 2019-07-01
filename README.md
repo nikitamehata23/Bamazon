@@ -15,3 +15,10 @@
 
 ### BamazonCustomer
 The customer interface takes in orders from customers. If inventory is available, it will calculate the total cost for the customer and deplete the stock from the store's inventory. If inventory is not available, the app will alert the customer. 
+
+
+
+
+### Bamazon Manager
+The manager interface allows the user to:
+1. View Products for Sale 
