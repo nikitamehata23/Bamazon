@@ -17,13 +17,15 @@ This application implements a simple command line based storefront using the npm
 
 ### What Each JavaScript Does
 
-1. `BamazonCustomer.js`
+1. `bamazon.js`
 
     * Prints the products in the store.
-
     * Prompts customer which product they would like to purchase by ID number.
-
     * Asks for the quantity.
+    *Type in the ID number of the item you'd like to buy: 
+    * How many units would you like to buy? 
+    * Please Enter your Credit Card # 
+    * Are you sure you want to make this purchase? y/n
 
       * If there is a sufficient amount of the product in stock, it will return the total for that purchase.
       * However, if there is not enough of the product in stock, it will tell the user that there isn't enough of the product.
