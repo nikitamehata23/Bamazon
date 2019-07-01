@@ -17,7 +17,7 @@ This application implements a simple command line based storefront using the npm
 
 ### What Each JavaScript Does
 
-1. `bamazon.js`
+1. `bamazonCustomer.js`
 
     * Prints the products in the store.
     * Prompts customer which product they would like to purchase by ID number.
