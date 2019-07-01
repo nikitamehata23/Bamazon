@@ -70,4 +70,3 @@ This application implements a simple command line based storefront using the npm
 
 * MySQLWorkbench
 * Terminal/Gitbash
-
